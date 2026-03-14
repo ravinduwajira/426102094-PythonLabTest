@@ -1,0 +1,6 @@
+Understanding how network topologies differ between broadcast-oriented platforms and collaborative developer 
+environments is crucial for optimizing information flow and identifying key contributors. This project analyzes 
+the user-to-user connections within the Twitter Edge Nodes Dataset and the GitHub Social Network Graph. 
+By comparing these networks, we aim to identify highly connected 'super-nodes' and determine whether 
+a collaborative technical environment (GitHub) exhibits denser, more clustered communities compared to a 
+general microblogging platform (Twitter).
